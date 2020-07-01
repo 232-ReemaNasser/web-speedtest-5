@@ -9,3 +9,7 @@ let instructor = {
     console.log("Hi, I'm Menawer");
   },
 };
+console.log(name)
+console.log(courses)
+console.log(username)
+console.log("Hi, I'm Menawer");
